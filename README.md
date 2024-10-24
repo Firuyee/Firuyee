@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Taru Finni
 
-<h4 align=left">I’m a passionate developer who has finished the core-studies at Hive Helsinki (part of 42 Network). I'm always eager to learn new technologies, solve challenging problems, and collaborate with others!</h4>
+<h4 align=left">I’m a passionate developer who has finished the core-curriculum at Hive Helsinki (part of 42 Network). I'm always eager to learn new technologies, solve challenging problems, and collaborate with others!</h4>
 
 - 🌱 Currently expanding my skills in **React, Node.js,** and **three.js,** as I am actively working on full-stack skills through the **Full Stack Open** course by the University of Helsinki and exploring **three.js** with the Three.js Journey course
-- 🛠️ **Problem Solver:** Passionate about tackling challenging technical issues, whether it’s low-level system programming or creating efficient, scalable applications.
+- 🛠️ Passionate about tackling challenging technical issues, whether it’s low-level system programming or creating efficient, scalable applications.
 - ⚡ Fun fact: I have a background in graphic design!
 
 <h3 align="left">Languages and Tools:</h3>
